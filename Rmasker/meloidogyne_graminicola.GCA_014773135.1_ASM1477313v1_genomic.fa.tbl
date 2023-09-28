@@ -1,0 +1,59 @@
+==================================================
+file name: meloidogyne_graminicola.GCA_014773135.1_ASM1477313v1_genomic.fa
+sequences:           283
+total length:   41549413 bp  (41549113 bp excl N/X-runs)
+GC level:         23.21 %
+bases masked:    4842495 bp ( 11.65 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements          207       163916 bp    0.39 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:               38        12180 bp    0.03 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL         38        12180 bp    0.03 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       169       151736 bp    0.37 %
+     BEL/Pao             4        20900 bp    0.05 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1        98       115267 bp    0.28 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       1161       356440 bp    0.86 %
+   hobo-Activator      142        36521 bp    0.09 %
+   Tc1-IS630-Pogo       89        22450 bp    0.05 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        5         3573 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles        249       132533 bp    0.32 %
+
+Unclassified:         6737      1349489 bp    3.25 %
+
+Total interspersed repeats:     1869845 bp    4.50 %
+
+
+Small RNA:              25         3375 bp    0.01 %
+
+Satellites:             39         6407 bp    0.02 %
+Simple repeats:      42555      2002510 bp    4.82 %
+Low complexity:      15619       827825 bp    1.99 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "MGRAM-families.fa"
+

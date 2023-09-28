@@ -1,0 +1,59 @@
+==================================================
+file name: meloidogyne_incognita.PRJEB8714.WBPS16.genomic.fa
+sequences:         12091
+total length:  183531997 bp  (180220884 bp excl N/X-runs)
+GC level:         29.76 %
+bases masked:   43859109 bp ( 23.90 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        17823      5109472 bp    2.78 %
+   SINEs:              392        26966 bp    0.01 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             1151       417355 bp    0.23 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        810       367200 bp    0.20 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4           324        42243 bp    0.02 %
+   LTR elements:     16280      4665151 bp    2.54 %
+     BEL/Pao          2391      1417840 bp    0.77 %
+     Ty1/Copia         108        41905 bp    0.02 %
+     Gypsy/DIRS1     11135      2634690 bp    1.44 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      38332      7469357 bp    4.07 %
+   hobo-Activator    18709      1971079 bp    1.07 %
+   Tc1-IS630-Pogo     9908      1431352 bp    0.78 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger    22        14633 bp    0.01 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       4668       694663 bp    0.38 %
+
+Unclassified:       167883     24780986 bp   13.50 %
+
+Total interspersed repeats:    37359815 bp   20.36 %
+
+
+Small RNA:             747       220489 bp    0.12 %
+
+Satellites:            760       124098 bp    0.07 %
+Simple repeats:      79157      3727238 bp    2.03 %
+Low complexity:      34120      1759772 bp    0.96 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in ".../MINCOG-families.fa"
+

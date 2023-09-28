@@ -1,0 +1,59 @@
+==================================================
+file name: globodera_pallida.PRJEB123.WBPS16.genomic.fa
+sequences:          6873
+total length:  123625196 bp  (103649562 bp excl N/X-runs)
+GC level:         36.74 %
+bases masked:   25560743 bp ( 20.68 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         4545       705108 bp    0.57 %
+   SINEs:              331        34254 bp    0.03 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              104        35416 bp    0.03 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         66        14898 bp    0.01 %
+     R1/LOA/Jockey      23         8129 bp    0.01 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      4110       635438 bp    0.51 %
+     BEL/Pao           230        93679 bp    0.08 %
+     Ty1/Copia         193        18975 bp    0.02 %
+     Gypsy/DIRS1      1338       335430 bp    0.27 %
+       Retroviral       22        27199 bp    0.02 %
+
+DNA transposons      22251      2849455 bp    2.30 %
+   hobo-Activator    15198      1808801 bp    1.46 %
+   Tc1-IS630-Pogo      855        99699 bp    0.08 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        383       201334 bp    0.16 %
+
+Unclassified:       144718     19145639 bp   15.49 %
+
+Total interspersed repeats:    22700202 bp   18.36 %
+
+
+Small RNA:             252        58345 bp    0.05 %
+
+Satellites:            801        99295 bp    0.08 %
+Simple repeats:      40263      1902792 bp    1.54 %
+Low complexity:      11364       598775 bp    0.48 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "GPAL-families.fa"
+

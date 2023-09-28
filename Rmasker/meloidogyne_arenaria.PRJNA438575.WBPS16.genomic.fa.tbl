@@ -1,0 +1,59 @@
+==================================================
+file name: meloidogyne_arenaria.PRJNA438575.WBPS16.genomic.fa
+sequences:          2224
+total length:  284032373 bp  (284032373 bp excl N/X-runs)
+GC level:         30.01 %
+bases masked:   93500855 bp ( 32.92 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        46700     18913088 bp    6.66 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             6806      2290498 bp    0.81 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       2059      1577991 bp    0.56 %
+     R1/LOA/Jockey     491        56384 bp    0.02 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B          35        14480 bp    0.01 %
+     L1/CIN4          4146       561943 bp    0.20 %
+   LTR elements:     39894     16622590 bp    5.85 %
+     BEL/Pao          6787      6500849 bp    2.29 %
+     Ty1/Copia        1897       323110 bp    0.11 %
+     Gypsy/DIRS1     20043      6812584 bp    2.40 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      75159     17679900 bp    6.22 %
+   hobo-Activator    28909      3820414 bp    1.35 %
+   Tc1-IS630-Pogo    22092      3224943 bp    1.14 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger   383       184273 bp    0.06 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       6124      2512379 bp    0.88 %
+
+Unclassified:       260087     45428134 bp   15.99 %
+
+Total interspersed repeats:    82021122 bp   28.88 %
+
+
+Small RNA:            1184       995272 bp    0.35 %
+
+Satellites:           2934       503542 bp    0.18 %
+Simple repeats:     106507      5069302 bp    1.78 %
+Low complexity:      46359      2399238 bp    0.84 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "MARE-families.fa"
+

@@ -1,0 +1,59 @@
+==================================================
+file name: heterodera_glycines.PRJNA381081.WBPS16.genomic.fa
+sequences:           738
+total length:  123846405 bp  (123846405 bp excl N/X-runs)
+GC level:         37.74 %
+bases masked:   44815831 bp ( 36.19 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        13332      6418638 bp    5.18 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope            892       104482 bp    0.08 %
+   LINEs:             5380      1702426 bp    1.37 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       2909      1325058 bp    1.07 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4           382       119085 bp    0.10 %
+   LTR elements:      7952      4716212 bp    3.81 %
+     BEL/Pao          1013      1379687 bp    1.11 %
+     Ty1/Copia         756       146079 bp    0.12 %
+     Gypsy/DIRS1      3699      2575754 bp    2.08 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      49181      9390737 bp    7.58 %
+   hobo-Activator    15746      2680106 bp    2.16 %
+   Tc1-IS630-Pogo     2649       432591 bp    0.35 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger   598        78683 bp    0.06 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3854      1103818 bp    0.89 %
+
+Unclassified:       130501     24126577 bp   19.48 %
+
+Total interspersed repeats:    39935952 bp   32.25 %
+
+
+Small RNA:             189        31613 bp    0.03 %
+
+Satellites:           1583       269702 bp    0.22 %
+Simple repeats:      46707      2397738 bp    1.94 %
+Low complexity:      14091      1077008 bp    0.87 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "HGLY-families.fa"
+

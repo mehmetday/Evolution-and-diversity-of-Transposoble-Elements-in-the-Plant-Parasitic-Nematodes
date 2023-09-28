@@ -1,0 +1,59 @@
+==================================================
+file name: bursaphelenchus_xylophilus.PRJEB40022.WBPS16.genomic.fa
+sequences:            11
+total length:   78274012 bp  (78260799 bp excl N/X-runs)
+GC level:         40.37 %
+bases masked:   22559404 bp ( 28.82 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         4787      1294875 bp    1.65 %
+   SINEs:              753       186200 bp    0.24 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:               55         8488 bp    0.01 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B          36         5773 bp    0.01 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      3979      1100187 bp    1.41 %
+     BEL/Pao           254       300236 bp    0.38 %
+     Ty1/Copia         374        37845 bp    0.05 %
+     Gypsy/DIRS1      2055       385732 bp    0.49 %
+       Retroviral       57        36150 bp    0.05 %
+
+DNA transposons      22252      4883815 bp    6.24 %
+   hobo-Activator     2147       388649 bp    0.50 %
+   Tc1-IS630-Pogo    17866      4017723 bp    5.13 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger    86         8479 bp    0.01 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3102       452163 bp    0.58 %
+
+Unclassified:        66844     12903864 bp   16.49 %
+
+Total interspersed repeats:    19082554 bp   24.38 %
+
+
+Small RNA:             483       116914 bp    0.15 %
+
+Satellites:            836      2653733 bp    3.39 %
+Simple repeats:       5603       234025 bp    0.30 %
+Low complexity:       1771        85826 bp    0.11 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "BXY-families.fa"
+

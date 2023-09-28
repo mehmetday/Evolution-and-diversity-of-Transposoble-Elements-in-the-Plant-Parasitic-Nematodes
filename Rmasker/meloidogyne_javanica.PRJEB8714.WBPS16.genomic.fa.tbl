@@ -1,0 +1,59 @@
+==================================================
+file name: meloidogyne_javanica.PRJEB8714.WBPS16.genomic.fa
+sequences:         31341
+total length:  235798407 bp  (235522566 bp excl N/X-runs)
+GC level:         29.97 %
+bases masked:   60679902 bp ( 25.73 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        40232      7723124 bp    3.28 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             1374       618263 bp    0.26 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1294       580352 bp    0.25 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4            80        37911 bp    0.02 %
+   LTR elements:     38858      7104861 bp    3.01 %
+     BEL/Pao         10384      2938325 bp    1.25 %
+     Ty1/Copia         556        99360 bp    0.04 %
+     Gypsy/DIRS1     24973      3482933 bp    1.48 %
+       Retroviral       59        36821 bp    0.02 %
+
+DNA transposons      53272      8347207 bp    3.54 %
+   hobo-Activator    23198      2334244 bp    0.99 %
+   Tc1-IS630-Pogo    20356      1970600 bp    0.84 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger   509        67803 bp    0.03 %
+   Other (Mirage,      154        28046 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles       3295       741763 bp    0.31 %
+
+Unclassified:       267441     36090118 bp   15.31 %
+
+Total interspersed repeats:    52160449 bp   22.12 %
+
+
+Small RNA:             973       224999 bp    0.10 %
+
+Satellites:           9301       721676 bp    0.31 %
+Simple repeats:      98650      4607597 bp    1.95 %
+Low complexity:      43171      2223418 bp    0.94 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in ".../MJAVA-families.fa"
+

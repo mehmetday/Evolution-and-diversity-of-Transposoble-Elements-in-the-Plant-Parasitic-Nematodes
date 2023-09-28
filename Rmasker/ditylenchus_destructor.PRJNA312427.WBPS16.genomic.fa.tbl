@@ -1,0 +1,59 @@
+==================================================
+file name: ditylenchus_destructor.PRJNA312427.WBPS16.genomic.fa
+sequences:          1761
+total length:  111138200 bp  (108833479 bp excl N/X-runs)
+GC level:         36.84 %
+bases masked:   21684540 bp ( 19.51 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         4320       857574 bp    0.77 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope             68        28325 bp    0.03 %
+   LINEs:              884       193347 bp    0.17 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        420       103903 bp    0.09 %
+     R1/LOA/Jockey      60         3902 bp    0.00 %
+     R2/R4/NeSL        283        26290 bp    0.02 %
+     RTE/Bov-B          53        30927 bp    0.03 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:      3436       664227 bp    0.60 %
+     BEL/Pao            23        45893 bp    0.04 %
+     Ty1/Copia         325        46893 bp    0.04 %
+     Gypsy/DIRS1      3005       546113 bp    0.49 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      17811      2686891 bp    2.42 %
+   hobo-Activator     3201       459989 bp    0.41 %
+   Tc1-IS630-Pogo     6430       846296 bp    0.76 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac            461        55257 bp    0.05 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       5455       949420 bp    0.85 %
+
+Unclassified:       108476     16420218 bp   14.77 %
+
+Total interspersed repeats:    19964683 bp   17.96 %
+
+
+Small RNA:              87        17477 bp    0.02 %
+
+Satellites:            241        76885 bp    0.07 %
+Simple repeats:      11184       547694 bp    0.49 %
+Low complexity:       2715       128381 bp    0.12 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in "DDES-families.fa"
+

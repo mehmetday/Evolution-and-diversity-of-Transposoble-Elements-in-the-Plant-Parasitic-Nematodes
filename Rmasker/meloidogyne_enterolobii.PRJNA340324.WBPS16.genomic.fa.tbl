@@ -1,0 +1,59 @@
+==================================================
+file name: meloidogyne_enterolobii.PRJNA340324.WBPS16.genomic.fa
+sequences:         42008
+total length:  162967259 bp  (162361549 bp excl N/X-runs)
+GC level:         29.75 %
+bases masked:   45862211 bp ( 28.14 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        18450      5204344 bp    3.19 %
+   SINEs:               38         3510 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             2388       520655 bp    0.32 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       1022       373298 bp    0.23 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4          1366       147357 bp    0.09 %
+   LTR elements:     16024      4680179 bp    2.87 %
+     BEL/Pao          1886      1384407 bp    0.85 %
+     Ty1/Copia         134        31456 bp    0.02 %
+     Gypsy/DIRS1     10127      2550688 bp    1.57 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      33525      5657302 bp    3.47 %
+   hobo-Activator    16321      1561140 bp    0.96 %
+   Tc1-IS630-Pogo    10497      1412426 bp    0.87 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger    52         5205 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3709       865024 bp    0.53 %
+
+Unclassified:       190920     29069038 bp   17.84 %
+
+Total interspersed repeats:    39930684 bp   24.50 %
+
+
+Small RNA:             135        40729 bp    0.02 %
+
+Satellites:           1824       464322 bp    0.28 %
+Simple repeats:      64347      3068928 bp    1.88 %
+Low complexity:      28557      1492524 bp    0.92 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in ".../MENT-families.fa"
+

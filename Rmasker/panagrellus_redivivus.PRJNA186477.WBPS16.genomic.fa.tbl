@@ -1,0 +1,59 @@
+==================================================
+file name: panagrellus_redivivus.PRJNA186477.WBPS16.genomic.fa
+sequences:           940
+total length:   65093147 bp  (62210331 bp excl N/X-runs)
+GC level:         44.25 %
+bases masked:    4927310 bp ( 7.57 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1230       288019 bp    0.44 %
+   SINEs:               29         2388 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:              439        93719 bp    0.14 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         85        22466 bp    0.03 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL        328        60883 bp    0.09 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       762       191912 bp    0.29 %
+     BEL/Pao            91        10480 bp    0.02 %
+     Ty1/Copia          70        11963 bp    0.02 %
+     Gypsy/DIRS1       498       148190 bp    0.23 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons       1146       257441 bp    0.40 %
+   hobo-Activator      406        86208 bp    0.13 %
+   Tc1-IS630-Pogo      301        50820 bp    0.08 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger    27         6470 bp    0.01 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles        229        33652 bp    0.05 %
+
+Unclassified:        20565      4053193 bp    6.23 %
+
+Total interspersed repeats:     4598653 bp    7.06 %
+
+
+Small RNA:             303        28175 bp    0.04 %
+
+Satellites:             31         2423 bp    0.00 %
+Simple repeats:       4682       218258 bp    0.34 %
+Low complexity:       1058        48537 bp    0.07 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.1 , default mode
+                                        
+run with rmblastn version 2.10.0+
+The query was compared to classified sequences in ".../PRED-families.fa"
+
